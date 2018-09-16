@@ -26,10 +26,10 @@
         + **分享** 主題 *Fast Track your Career in Data Science*
             + Chu-Cheng Hsieh
     - [ ] 第二週 9/22 9/21
-        + **導讀** 第二章 Before we begin: the mathematical building blocks of neural networks
+        + **導讀** 第二章 *Before we begin: the mathematical building blocks of neural networks*
             + Sidney Lin
     - [ ] 第三週 9/29 9/28
-        + **導讀** 第三章 Getting started with neural networks
+        + **導讀** 第三章 *Getting started with neural networks*
             + Katy Chou
     - [ ] 第四週 10/13 10/12
         + **導讀** 第四章 *Fundamentals of machine learning*
