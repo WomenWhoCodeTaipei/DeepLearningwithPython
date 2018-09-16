@@ -21,37 +21,37 @@
 + Chapter in the book:
     + [進度 台北時間 灣區時間]
     - [x] 第一週 9/15 9/14
-        + **導讀** 第一章 *What is deep learning*
+        + **導讀** 第一章 What is deep learning
             - Milla Shih
-        + **分享** 主題 *Fast Track your Career in Data Science*
+        + **分享** 主題 Fast Track your Career in Data Science
             + Chu-Cheng Hsieh
     - [ ] 第二週 9/22 9/21
-        + **導讀** 第二章 *Before we begin: the mathematical building blocks of neural networks*
+        + **導讀** 第二章 Before we begin: the mathematical building blocks of neural networks
             + Sidney Lin
     - [ ] 第三週 9/29 9/28
-        + **導讀** 第三章 *Getting started with neural networks*
+        + **導讀** 第三章 Getting started with neural networks
             + Katy Chou
     - [ ] 第四週 10/13 10/12
-        + **導讀** 第四章 *Fundamentals of machine learning*
+        + **導讀** 第四章 Fundamentals of machine learning
             + Noah Chen
     - [ ] 第五週 10/20 10/19
-        + **導讀** 第五章 *Deep learning for computer vision*
+        + **導讀** 第五章 Deep learning for computer vision
             + 曾韋霖
     - [ ] 第六週 10/27 10/26
         + **實作** 第五章
             + 曾韋霖、張仲樸
     - [ ] 第七週 11/3 11/2
-        + **導讀** 第六章 *Deep learning for text and sequences*
+        + **導讀** 第六章 Deep learning for text and sequences
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
     - [ ] 第九週 11/17 11/16
-        + **導讀** 第七章 *Advanced deep-learning best practices*
+        + **導讀** 第七章 Advanced deep-learning best practices
             + Yu-Hsuan Chen
     - [ ] 第十週 12/8 12/7
-        + **導讀** 第八章 *Generative deep learning*
+        + **導讀** 第八章 Generative deep learning
             + Jay Tao
-        + **導讀** 第九章 *Conclusions*
+        + **導讀** 第九章 Conclusions
             + Jay Tao
 
 ## 課程時間與地點:
