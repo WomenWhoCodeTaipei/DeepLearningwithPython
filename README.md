@@ -1,10 +1,10 @@
 # Machine Learning Study Group Sessoin: Deep Learning with Python
 
 ## 目的:
-協助想要往 Data Science 領域發展的 Women Who Code 成員學習 Deep Learning。
+協助想要往 Data Science 領域發展的 Women Who Code 成員學習 Deep Learning。
 
 ## 方法:
-成立 Machine Learning Study Group。透過導讀、實作和討論，讓 members 共同來學習。
+成立 Machine Learning Study Group。透過導讀、實作和討論，讓 members 共同來學習。
 
 ## Deep Learning with Python 讀書會
 + Machine Learning Study Group
@@ -17,12 +17,12 @@
     + 讀書會成員認領導讀 (非強迫性)
     + 每章節獨立，歡迎新成員加入
 + 本次用書: [Deep Learning with Python][2]
-    + 請自行準備
+    + 請自行準備
 + Chapter in the book:
     + [進度 台北時間 灣區時間]
     - [x] 第一週 9/15 9/14
         + **導讀** 第一章 *What is deep learning*
-            - Milla Shih
+            - Milla Shih
         + **分享** 主題 *Fast Track your Career in Data Science*
             + Chu-Cheng Hsieh
     - [ ] 第二週 9/22 9/21
