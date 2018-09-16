@@ -38,13 +38,13 @@
         + **導讀** 第五章 *Deep learning for computer vision*
             + 曾韋霖
     - [ ] 第六週 10/27 10/26
-        + 第五章實作
+        + **實作** 第五章
             + 曾韋霖、張仲樸
     - [ ] 第七週 11/3 11/2
         + **導讀** 第六章 *Deep learning for text and sequences*
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第八週 11/10 11/9
-        + 第六章實作
+        + **實作** 第六章
     - [ ] 第九週 11/17 11/16
         + **導讀** 第七章 *Advanced deep-learning best practices*
             + Yu-Hsuan Chen
@@ -65,7 +65,7 @@
 ## 資訊與工具
 + 資訊發布以 Facebook 和 Meetup 為優先
     + [台北Meetup][Women Who Code Taipei][3]
-    + [灣區活動頁][Machine Learning Study Group : Deep Learning with Python][8]
+    + [灣區活動頁][Machine Learning Study Group : Deep Learning with Python][8]
     + [FB粉絲頁][Women Who Code Taipei][4]
     + [FB社團][Women Who Code Taipei][5]
     + [FB社團][Girls in Tech-Taiwan/Taipei Women in Tech][6]
