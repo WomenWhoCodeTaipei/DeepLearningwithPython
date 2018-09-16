@@ -1,5 +1,4 @@
-# Machine Learning Study Group Sessoin: 
-# Deep Learning with Python
+# Machine Learning Study Group: Deep Learning with Python
 
 ## 目的:
 協助想要往 Data Science 領域發展的 Women Who Code 成員學習 Deep Learning。
