@@ -79,7 +79,7 @@
     + 推薦者 Women Who Code
 + **政大MOOC**[成為python數據分析達人的第一課][50]
     + 推薦者 Enzo
-+ **政大MOOC**[數值分析Numerical Analysis入門][51]
++ **政大MOOC**[數值分析Numerical Analysis入門][52]
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
     + 推薦者 Enzo
 
