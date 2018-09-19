@@ -20,10 +20,12 @@
     + 請自行準備
 + Chapter in the book:
     + [進度 台北時間 灣區時間]
-    - [x] 第一週 9/15 9/14
-        + **導讀** 第一章 What is deep learning
+    - [x] [第一週][9] 9/15 9/14
+        + **導讀** 第一章 [What is deep learning][10]
             - Milla Shih
-        + **分享** 主題 Fast Track your Career in Data Science
+        + **實作** 主題 [在 Google Colab 使用 Keras][11]
+            + Sidney Lin
+        + **分享** 主題 [Fast Track your Career in Data Science][12]
             + Chu-Cheng Hsieh
     - [ ] 第二週 9/22 9/21
         + **導讀** 第二章 Before we begin: the mathematical building blocks of neural networks
@@ -80,3 +82,7 @@
 [6]:https://www.facebook.com/groups/420817431404071/?ref=group_header
 [7]:https://www.facebook.com/groups/datasciencemeetup/?ref=group_header
 [8]:https://www.facebook.com/events/1901939603261051/
+[9]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/tree/master/Session%231
+[10]:https://ppt.cc/fflBlx
+[11]:https://lihi.cc/iaAoO
+[12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
