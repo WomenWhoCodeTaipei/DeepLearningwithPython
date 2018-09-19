@@ -12,7 +12,7 @@
 # 分享主題: Fast Track your Career in Data Science
 
 - 分享人: [Chu-Cheng Hsieh][3]
-- Data-sciencist-at-SF-Bay-area.pdf
+- [Data-sciencist-at-SF-Bay-area.pdf][4]
 
 
 
@@ -27,3 +27,4 @@
 [1]:https://ppt.cc/fflBlx
 [2]:https://lihi.cc/iaAoO
 [3]:https://www.linkedin.com/in/chucheng/
+[4]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
