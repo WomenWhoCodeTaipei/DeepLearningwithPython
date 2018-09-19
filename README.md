@@ -59,10 +59,10 @@
 ## 課程時間與地點:
 + 台北:
     + 三創 11 F
-    + Start time: 10:00
+    + Start time: 9:40
 + 灣區:
     + Santa Clara University Library Room 133 (500 El Camino Real, Santa Clara)
-    + Start time: 19:00
+    + Start time: 18:40
 
 ## 資訊與工具
 + 資訊發布以 Facebook 和 Meetup 為優先
@@ -72,6 +72,21 @@
     + [FB社團][Women Who Code Taipei][5]
     + [FB社團][Girls in Tech-Taiwan/Taipei Women in Tech][6]
     + [FB社團][Data Science Meetup 台灣資料科學社群][7]
+
+## 學習資源
++ 提供相關線上資源
++ [womenwhocode:提供豐富的學習資源][49]
+    + 推薦者 Women Who Code
++ [成為python數據分析達人的第一課][50]
+    + 推薦者 Enzo
++ [机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
+    + 推薦者 Enzo
+
+
+
+
+
+
 
 
 [1]:https://hpx.tw/archives/18982
@@ -86,3 +101,7 @@
 [10]:https://ppt.cc/fflBlx
 [11]:https://lihi.cc/iaAoO
 [12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
+
+[49]:https://www.womenwhocode.com/resources
+[50]:http://moocs.nccu.edu.tw/course/123/section/lecture
+[51]:https://www.udemy.com/machinelearningchinese/
