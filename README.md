@@ -77,9 +77,10 @@
 + 提供相關線上資源
 + [womenwhocode:提供豐富的學習資源][49]
     + 推薦者 Women Who Code
-+ [成為python數據分析達人的第一課][50]
++ **政大MOOC**[成為python數據分析達人的第一課][50]
     + 推薦者 Enzo
-+ [机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
++ **政大MOOC**[數值分析Numerical Analysis入門][51]
++ **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
     + 推薦者 Enzo
 
 
@@ -105,3 +106,4 @@
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
 [51]:https://www.udemy.com/machinelearningchinese/
+[52]:http://moocs.nccu.edu.tw/course/132/section/lecture
