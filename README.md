@@ -83,6 +83,8 @@
 + **政大MOOC**[數值分析Numerical Analysis入門][52]
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
     + 推薦者 Enzo
++ **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
+    + 推薦者 
 
 
 
@@ -109,3 +111,7 @@
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
 [51]:https://www.udemy.com/machinelearningchinese/
 [52]:http://moocs.nccu.edu.tw/course/132/section/lecture
+[53]:https://medium.com/ccclub
+[54]:https://www.facebook.com/ccclub.io/?__xts__%5B0%5D=68.ARCnhjk8stSyaFt_vriAHC14KT_e9rrZyhmEmIeymdpbi1DLM-wgJVITp3zXb9dRjT6aK95i-mgLRi8bG-ezFy7hunCpy-ZGYC0GkJEPvTmfjm5yOXlYXO7_0tUsMCv-h3SUlOdVvc63dyU8T7HpL2tktySLN0dLGl1AjfR0o4ZRyvplknijGkEYuWVqyacA4FkOfpqO2jBUxnC4psEQp4Vp1lI-F621xi71ssw
+
+
