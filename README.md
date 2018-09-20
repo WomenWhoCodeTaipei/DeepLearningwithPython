@@ -84,7 +84,9 @@
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
     + 推薦者 Enzo
 + **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
-    + 推薦者 
+    + 推薦者 Winni
+
+
 
 
 
