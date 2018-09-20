@@ -17,6 +17,7 @@
     + 讀書會成員認領導讀 (非強迫性)
     + 每章節獨立，歡迎新成員加入
 + 本次用書: [Deep Learning with Python][2]
+    + [Github: fchollet/deep-learning-with-python-notebooks][13]
     + 請自行準備
 + Chapter in the book:
     + [進度 台北時間 灣區時間]
@@ -102,6 +103,7 @@
 [10]:https://ppt.cc/fflBlx
 [11]:https://lihi.cc/iaAoO
 [12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
+[13]:https://github.com/fchollet/deep-learning-with-python-notebooks
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
