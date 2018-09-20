@@ -8,6 +8,7 @@
 
 - 導讀志工: Sidney Lin
 - [在Google Colab使用Keras][2]
+  - 補充:[Colab的官方介紹][5]
 
 # 分享主題: Fast Track your Career in Data Science
 
@@ -28,3 +29,4 @@
 [2]:https://lihi.cc/iaAoO
 [3]:https://www.linkedin.com/in/chucheng/
 [4]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
+[5]:https://colab.research.google.com/notebooks/welcome.ipynb
