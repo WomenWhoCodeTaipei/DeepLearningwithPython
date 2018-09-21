@@ -29,7 +29,7 @@
         + **分享** 主題 [Fast Track your Career in Data Science][12]
             + Chu-Cheng Hsieh
     - [ ] 第二週 9/22 9/21
-        + **導讀** 第二章 Before we begin: the mathematical building blocks of neural networks
+        + **導讀** 第二章 [Before we begin: the mathematical building blocks of neural networks][14]
             + Sidney Lin
     - [ ] 第三週 9/29 9/28
         + **導讀** 第三章 Getting started with neural networks
@@ -108,6 +108,8 @@
 [11]:https://lihi.cc/iaAoO
 [12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
 [13]:https://github.com/fchollet/deep-learning-with-python-notebooks
+[14]:https://lihi.cc/UUnLP
+
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
