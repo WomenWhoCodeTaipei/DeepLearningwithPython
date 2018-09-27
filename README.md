@@ -28,7 +28,7 @@
             + Sidney Lin
         + **分享** 主題 [Fast Track your Career in Data Science][12]
             + Chu-Cheng Hsieh
-    - [ ] 第二週 9/22 9/21
+    - [x] 第二週 9/22 9/21
         + **導讀** 第二章 [Before we begin: the mathematical building blocks of neural networks][14]
             + Sidney Lin
     - [ ] 第三週 9/29 9/28
@@ -73,6 +73,9 @@
     + [FB社團][Women Who Code Taipei][5]
     + [FB社團][Girls in Tech-Taiwan/Taipei Women in Tech][6]
     + [FB社團][Data Science Meetup 台灣資料科學社群][7]
++ 提問討論有2種方式
+    + Github 的 [Issue][15]
+    + [Slack][16]
 
 ## 學習資源
 + 提供相關線上資源
@@ -109,7 +112,8 @@
 [12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
 [13]:https://github.com/fchollet/deep-learning-with-python-notebooks
 [14]:https://lihi.cc/UUnLP
-
+[15]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/issues
+[16]:https://goo.gl/forms/7hFI7tEf6Z4exCT82
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
