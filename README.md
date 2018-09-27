@@ -112,7 +112,7 @@
 [12]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/Session%231/Data-sciencist-at-SF-Bay-area.pdf
 [13]:https://github.com/fchollet/deep-learning-with-python-notebooks
 [14]:https://lihi.cc/UUnLP
-[15]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/issues
+[15]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/issues/1
 [16]:https://goo.gl/forms/7hFI7tEf6Z4exCT82
 
 [49]:https://www.womenwhocode.com/resources
