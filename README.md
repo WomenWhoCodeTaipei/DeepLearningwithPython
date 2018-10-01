@@ -31,11 +31,11 @@
     - [x] 第二週 9/22 9/21
         + **導讀** 第二章 [Before we begin: the mathematical building blocks of neural networks][14]
             + Sidney Lin
-        + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
-            + Gomax提供
     - [x] 第三週 9/29 9/28
         + **導讀** 第三章 [Getting started with neural networks][17]
             + Katy Chou
+        + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
+            + Gomax提供
     - [ ] 第四週 10/13 10/12
         + **導讀** 第四章 Fundamentals of machine learning
             + Noah Chen
