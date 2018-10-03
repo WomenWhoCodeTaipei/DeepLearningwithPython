@@ -36,6 +36,8 @@
             + Katy Chou
         + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
             + Gomax提供
+        + **補充** [How Deep Learning Neural Network Works][55]
+            + Roger
     - [ ] 第四週 10/13 10/12
         + **導讀** 第四章 Fundamentals of machine learning
             + Noah Chen
@@ -125,5 +127,5 @@
 [52]:http://moocs.nccu.edu.tw/course/132/section/lecture
 [53]:https://medium.com/ccclub
 [54]:https://www.facebook.com/ccclub.io/?__xts__%5B0%5D=68.ARCnhjk8stSyaFt_vriAHC14KT_e9rrZyhmEmIeymdpbi1DLM-wgJVITp3zXb9dRjT6aK95i-mgLRi8bG-ezFy7hunCpy-ZGYC0GkJEPvTmfjm5yOXlYXO7_0tUsMCv-h3SUlOdVvc63dyU8T7HpL2tktySLN0dLGl1AjfR0o4ZRyvplknijGkEYuWVqyacA4FkOfpqO2jBUxnC4psEQp4Vp1lI-F621xi71ssw
-
+[55]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
 
