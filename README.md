@@ -35,7 +35,9 @@
         + **導讀** 第三章 [Getting started with neural networks][17]
             + Katy Chou
         + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
-            + Gomax提供
+            + Gomax 推薦
+        + **補充** [How Deep Neural Networks Work][19]
+            + Roger 推薦
     - [ ] 第四週 10/13 10/12
         + **導讀** 第四章 Fundamentals of machine learning
             + Noah Chen
@@ -80,16 +82,16 @@
     + [Slack][16]
 
 ## 學習資源
-+ 提供相關線上資源
 + [womenwhocode:提供豐富的學習資源][49]
-    + 推薦者 Women Who Code
+    + Women Who Code 推薦
 + **政大MOOC**[成為python數據分析達人的第一課][50]
-    + 推薦者 Enzo
-+ **政大MOOC**[數值分析Numerical Analysis入門][52]
+    + Enzo 推薦
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
-    + 推薦者 Enzo
+    + Enzo 推薦
 + **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
-    + 推薦者 Winni
+    + Winni 推薦
++ **書籍** [練好機器學習的基本功][55]
+    + Winni 推薦
 
 
 
@@ -118,6 +120,7 @@
 [16]:https://goo.gl/forms/7hFI7tEf6Z4exCT82
 [17]:https://lihi.cc/eaHoT
 [18]:https://youtu.be/aircAruvnKk
+[19]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
@@ -125,5 +128,5 @@
 [52]:http://moocs.nccu.edu.tw/course/132/section/lecture
 [53]:https://medium.com/ccclub
 [54]:https://www.facebook.com/ccclub.io/?__xts__%5B0%5D=68.ARCnhjk8stSyaFt_vriAHC14KT_e9rrZyhmEmIeymdpbi1DLM-wgJVITp3zXb9dRjT6aK95i-mgLRi8bG-ezFy7hunCpy-ZGYC0GkJEPvTmfjm5yOXlYXO7_0tUsMCv-h3SUlOdVvc63dyU8T7HpL2tktySLN0dLGl1AjfR0o4ZRyvplknijGkEYuWVqyacA4FkOfpqO2jBUxnC4psEQp4Vp1lI-F621xi71ssw
-
+[55]:https://www.books.com.tw/products/0010797283
 
