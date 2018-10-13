@@ -39,7 +39,7 @@
         + **補充** [How Deep Neural Networks Work][19]
             + Roger 推薦
     - [ ] 第四週 10/13 10/12
-        + **導讀** 第四章 Fundamentals of machine learning
+        + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
     - [ ] 第五週 10/20 10/19
         + **導讀** 第五章 Deep learning for computer vision
@@ -121,6 +121,7 @@
 [17]:https://lihi.cc/eaHoT
 [18]:https://youtu.be/aircAruvnKk
 [19]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
+[20]:http://bit.ly/deep_learning_with_python_ch4
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
