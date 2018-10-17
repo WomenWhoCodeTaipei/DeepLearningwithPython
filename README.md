@@ -38,7 +38,7 @@
             + Gomax 推薦
         + **補充** [How Deep Neural Networks Work][19]
             + Roger 推薦
-    - [ ] 第四週 10/13 10/12
+    - [x] 第四週 10/13 10/12
         + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
     - [ ] 第五週 10/20 10/19
@@ -52,10 +52,11 @@
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
+            + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第九週 11/17 11/16
         + **導讀** 第七章 Advanced deep-learning best practices
             + Yu-Hsuan Chen
-    - [ ] 第十週 12/8 12/7
+    - [ ] 第十週 12/9 12/8
         + **導讀** 第八章 Generative deep learning
             + Jay Tao
         + **導讀** 第九章 Conclusions
