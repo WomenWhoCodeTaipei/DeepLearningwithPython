@@ -42,7 +42,7 @@
         + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
     - [ ] 第五週 10/20 10/19
-        + **導讀** 第五章 Deep learning for computer vision
+        + **導讀** 第五章 [Deep learning for computer vision][21]
             + 曾韋霖
     - [ ] 第六週 10/27 10/26
         + **實作** 第五章
@@ -123,6 +123,7 @@
 [18]:https://youtu.be/aircAruvnKk
 [19]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
 [20]:http://bit.ly/deep_learning_with_python_ch4
+[21]:https://drive.google.com/file/d/1oZsvDgy73Gd4jjG9UqwE2kwWhgjjebNv/view?fbclid=IwAR2AqvFtM_Q5dUDJmz9J6Q2kqGUTUHAVah84NLcB-jbhl_LCf7atkfV8jlQ
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
