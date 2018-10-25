@@ -93,6 +93,10 @@
     + Winni 推薦
 + **書籍** [練好機器學習的基本功][55]
     + Winni 推薦
++ **Google** [Google機器學習資源1:Prerequisites and Prework][56]
++ **Google** [Google機器學習資源2:Machine Learning Crash Course][57]
++ **Google** [Google機器學習資源3:Path of Machine Learning][58]
+    + Winni 推薦
 
 
 
@@ -132,4 +136,7 @@
 [53]:https://medium.com/ccclub
 [54]:https://www.facebook.com/ccclub.io/?__xts__%5B0%5D=68.ARCnhjk8stSyaFt_vriAHC14KT_e9rrZyhmEmIeymdpbi1DLM-wgJVITp3zXb9dRjT6aK95i-mgLRi8bG-ezFy7hunCpy-ZGYC0GkJEPvTmfjm5yOXlYXO7_0tUsMCv-h3SUlOdVvc63dyU8T7HpL2tktySLN0dLGl1AjfR0o4ZRyvplknijGkEYuWVqyacA4FkOfpqO2jBUxnC4psEQp4Vp1lI-F621xi71ssw
 [55]:https://www.books.com.tw/products/0010797283
+[56]:https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?fbclid=IwAR0UUErHm9a1BmT2X8MKoiV0P8eVdfIomiN-Oq7W-ZazWAMzwHsjMjbS0is
+[57]:https://developers.google.com/machine-learning/crash-course/?utm_source=DevRel&utm_medium=StudyJam&utm_campaign=q1y2018&utm_term&utm_content=mlcc&fbclid=IwAR2EypJlNex4cxn_uL8QwRbK2GVS2PNrRQGYWv9L54IQLqkx83QSs39xT_k
+[58]:https://techdevguide.withgoogle.com/paths/machine-learning/
 
