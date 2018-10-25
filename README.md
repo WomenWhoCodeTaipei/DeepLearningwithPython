@@ -41,12 +41,12 @@
     - [x] 第四週 10/13 10/12
         + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
-    - [ ] 第五週 10/20 10/19
+    - [x] 第五週 10/20 10/19
         + **導讀** 第五章 [Deep learning for computer vision][21]
             + 曾韋霖
     - [ ] 第六週 10/27 10/26
         + **實作** 第五章
-            + 曾韋霖、張仲樸
+            + 曾韋霖、張仲樸Enzo
     - [ ] 第七週 11/3 11/2
         + **導讀** 第六章 Deep learning for text and sequences
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
