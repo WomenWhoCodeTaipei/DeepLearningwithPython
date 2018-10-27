@@ -44,9 +44,10 @@
     - [x] 第五週 10/20 10/19
         + **導讀** 第五章 [Deep learning for computer vision][21]
             + 曾韋霖
-    - [ ] 第六週 10/27 10/26
-        + **實作** 第五章
+    - [x] 第六週 10/27 10/26
+        + **實作** 第五章  [實作][22]
             + 曾韋霖、張仲樸Enzo
+        + **分享** 主題 [import AI*][23]
     - [ ] 第七週 11/3 11/2
         + **導讀** 第六章 Deep learning for text and sequences
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
@@ -128,6 +129,9 @@
 [19]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
 [20]:http://bit.ly/deep_learning_with_python_ch4
 [21]:https://drive.google.com/file/d/1oZsvDgy73Gd4jjG9UqwE2kwWhgjjebNv/view?fbclid=IwAR2AqvFtM_Q5dUDJmz9J6Q2kqGUTUHAVah84NLcB-jbhl_LCf7atkfV8jlQ
+[22]:https://docs.google.com/presentation/d/1x44qt4YOyIbAL-TvQHClA2QU87BiuN0wSLNtJgUEYKQ/edit?fbclid=IwAR382IpEmEfxg1KK7wwmv6qK4BF1Q4J7vrWBlEwCaoTwocrP1ds_rVb1Td0#slide=id.g35f391192_00
+[23]:https://docs.google.com/presentation/d/1uf7j-Fs0OD2gfqzJC35prFoHozv_9IBWV5azjcuLjqE/edit?fbclid=IwAR2yfW0C4m7PL8-7F1AWNCCZsEdp8rnNLRO4ETSvFimTGYavecqyCXcrMHk#slide=id.g44ca355d22_0_0
+
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
