@@ -48,6 +48,7 @@
         + **實作** 第五章  [實作][22]
             + 曾韋霖、張仲樸Enzo
         + **分享** 主題 [import AI*][23]
+            + 王品淳
     - [ ] 第七週 11/3 11/2
         + **導讀** 第六章 Deep learning for text and sequences
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
