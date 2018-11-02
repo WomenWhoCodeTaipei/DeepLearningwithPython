@@ -45,12 +45,12 @@
         + **導讀** 第五章 [Deep learning for computer vision][21]
             + 曾韋霖
     - [x] 第六週 10/27 10/26
-        + **實作** 第五章  [實作][22]
+        + **實作** 第五章 [實作][22]
             + 曾韋霖、張仲樸Enzo
         + **分享** 主題 [import AI*][23]
             + 王品淳
-    - [ ] 第七週 11/3 11/2
-        + **導讀** 第六章 Deep learning for text and sequences
+    - [x] 第七週 11/3 11/2
+        + **導讀** 第六章 [Deep learning for text and sequences][24]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
@@ -132,6 +132,7 @@
 [21]:https://drive.google.com/file/d/1oZsvDgy73Gd4jjG9UqwE2kwWhgjjebNv/view?fbclid=IwAR2AqvFtM_Q5dUDJmz9J6Q2kqGUTUHAVah84NLcB-jbhl_LCf7atkfV8jlQ
 [22]:https://docs.google.com/presentation/d/1x44qt4YOyIbAL-TvQHClA2QU87BiuN0wSLNtJgUEYKQ/edit?fbclid=IwAR382IpEmEfxg1KK7wwmv6qK4BF1Q4J7vrWBlEwCaoTwocrP1ds_rVb1Td0#slide=id.g35f391192_00
 [23]:https://docs.google.com/presentation/d/1uf7j-Fs0OD2gfqzJC35prFoHozv_9IBWV5azjcuLjqE/edit?fbclid=IwAR2yfW0C4m7PL8-7F1AWNCCZsEdp8rnNLRO4ETSvFimTGYavecqyCXcrMHk#slide=id.g44ca355d22_0_0
+[24]:https://docs.google.com/presentation/d/1-b9TFwkdiVLC3WdV1uAaXQP1d2I9dRJM8zfNx6uwEIE/edit?fbclid=IwAR1NYM_7OK7iROxFoJ_AfR_1d3Rvrh5vxhZ99_XRBRUQmRObbX3CUgtzd_g#slide=id.g456bf0dcf7_6_431
 
 
 [49]:https://www.womenwhocode.com/resources
