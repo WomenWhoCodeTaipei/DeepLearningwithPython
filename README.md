@@ -52,6 +52,7 @@
     - [x] 第七週 11/3 11/2
         + **導讀** 第六章 [Deep learning for text and sequences][24]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
+        + **補充** [最後Hsin-Wei分享的display_closestwords_tsnescatterplot.ipynb][25]
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
@@ -133,6 +134,8 @@
 [22]:https://docs.google.com/presentation/d/1x44qt4YOyIbAL-TvQHClA2QU87BiuN0wSLNtJgUEYKQ/edit?fbclid=IwAR382IpEmEfxg1KK7wwmv6qK4BF1Q4J7vrWBlEwCaoTwocrP1ds_rVb1Td0#slide=id.g35f391192_00
 [23]:https://docs.google.com/presentation/d/1uf7j-Fs0OD2gfqzJC35prFoHozv_9IBWV5azjcuLjqE/edit?fbclid=IwAR2yfW0C4m7PL8-7F1AWNCCZsEdp8rnNLRO4ETSvFimTGYavecqyCXcrMHk#slide=id.g44ca355d22_0_0
 [24]:https://docs.google.com/presentation/d/1-b9TFwkdiVLC3WdV1uAaXQP1d2I9dRJM8zfNx6uwEIE/edit?fbclid=IwAR1NYM_7OK7iROxFoJ_AfR_1d3Rvrh5vxhZ99_XRBRUQmRObbX3CUgtzd_g#slide=id.g456bf0dcf7_6_431
+[25]:https://l.facebook.com/l.php?u=https%3A%2F%2Fgist.github.com%2Faneesha%2Fda9216fb8d84245f7af6edaa14f4efa9%3Ffbclid%3DIwAR3X7BhnZZ2v3h_gIlFiajReJlutDcWS_n3e-p9MQqtufc1bUnCBoplJCnQ%23file-display_closestwords_tsnescatterplot-ipynb&h=AT1iOcQqYCJfrWmklJyraOG8e-3Vt2wjMNhOjfs5VdiKqx3CTfqnOsDsZAREBWZdqUhGExoP2T9x4Bgo7O59j6-vJJvq7BVQi225WrzDym02O04ZKquUZQjodPUT_LbhkXLMO-Xf
+
 
 
 [49]:https://www.womenwhocode.com/resources
