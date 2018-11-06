@@ -35,9 +35,9 @@
         + **導讀** 第三章 [Getting started with neural networks][17]
             + Katy Chou
         + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
-            + Gomax 推薦
-        + **補充** [How Deep Neural Networks Work][19]
-            + Roger 推薦
+            + Gomax
+        + **補充** [How Deep Learning Neural Network Works][19]
+            + Roger
     - [x] 第四週 10/13 10/12
         + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
@@ -46,13 +46,14 @@
             + 曾韋霖
     - [x] 第六週 10/27 10/26
         + **實作** 第五章 [實作][22]
-            + 曾韋霖、張仲樸Enzo
+            + 曾韋霖、Enzo
         + **分享** 主題 [import AI*][23]
             + 王品淳
     - [x] 第七週 11/3 11/2
         + **導讀** 第六章 [Deep learning for text and sequences][24]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
         + **補充** [最後Hsin-Wei分享的display_closestwords_tsnescatterplot.ipynb][25]
+            + Hsin-Wei Tsao
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
