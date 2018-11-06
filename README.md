@@ -35,27 +35,31 @@
         + **導讀** 第三章 [Getting started with neural networks][17]
             + Katy Chou
         + **補充** [But what *is* a Neural Network? | Deep learning, chapter 1][18]
-            + Gomax提供
+            + Gomax
         + **補充** [How Deep Learning Neural Network Works][55]
             + Roger
     - [ ] 第四週 10/13 10/12
-        + **導讀** 第四章 Fundamentals of machine learning
+        + **導讀** 第四章 [Fundamentals of machine learning][20]
             + Noah Chen
-    - [ ] 第五週 10/20 10/19
-        + **導讀** 第五章 Deep learning for computer vision
+    - [x] 第五週 10/20 10/19
+        + **導讀** 第五章 [Deep learning for computer vision][21]
             + 曾韋霖
-    - [ ] 第六週 10/27 10/26
-        + **實作** 第五章
-            + 曾韋霖、張仲樸
-    - [ ] 第七週 11/3 11/2
-        + **導讀** 第六章 Deep learning for text and sequences
+    - [x] 第六週 10/27 10/26
+        + **實作** 第五章 [實作][22]
+            + 曾韋霖、張仲樸Enzo
+        + **分享** 主題 [import AI*][23]
+            + 王品淳
+    - [x] 第七週 11/3 11/2
+        + **導讀** 第六章 [Deep learning for text and sequences][24]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
+        + **補充** [最後Hsin-Wei分享的display_closestwords_tsnescatterplot.ipynb][25]
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章
+            + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第九週 11/17 11/16
         + **導讀** 第七章 Advanced deep-learning best practices
             + Yu-Hsuan Chen
-    - [ ] 第十週 12/8 12/7
+    - [ ] 第十週 12/9 12/8
         + **導讀** 第八章 Generative deep learning
             + Jay Tao
         + **導讀** 第九章 Conclusions
@@ -82,16 +86,20 @@
     + [Slack][16]
 
 ## 學習資源
-+ 提供相關線上資源
 + [womenwhocode:提供豐富的學習資源][49]
-    + 推薦者 Women Who Code
+    + Women Who Code 推薦
 + **政大MOOC**[成為python數據分析達人的第一課][50]
-    + 推薦者 Enzo
-+ **政大MOOC**[數值分析Numerical Analysis入門][52]
+    + Enzo 推薦
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
-    + 推薦者 Enzo
+    + Enzo 推薦
 + **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
-    + 推薦者 Winni
+    + Winni 推薦
++ **書籍** [練好機器學習的基本功][56]
+    + Winni 推薦
++ **Google** [Google機器學習資源1:Prerequisites and Prework][57]
++ **Google** [Google機器學習資源2:Machine Learning Crash Course][58]
++ **Google** [Google機器學習資源3:Path of Machine Learning][59]
+    + Winni 推薦
 
 
 
@@ -120,6 +128,15 @@
 [16]:https://goo.gl/forms/7hFI7tEf6Z4exCT82
 [17]:https://lihi.cc/eaHoT
 [18]:https://youtu.be/aircAruvnKk
+[19]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
+[20]:http://bit.ly/deep_learning_with_python_ch4
+[21]:https://drive.google.com/file/d/1oZsvDgy73Gd4jjG9UqwE2kwWhgjjebNv/view?fbclid=IwAR2AqvFtM_Q5dUDJmz9J6Q2kqGUTUHAVah84NLcB-jbhl_LCf7atkfV8jlQ
+[22]:https://docs.google.com/presentation/d/1x44qt4YOyIbAL-TvQHClA2QU87BiuN0wSLNtJgUEYKQ/edit?fbclid=IwAR382IpEmEfxg1KK7wwmv6qK4BF1Q4J7vrWBlEwCaoTwocrP1ds_rVb1Td0#slide=id.g35f391192_00
+[23]:https://docs.google.com/presentation/d/1uf7j-Fs0OD2gfqzJC35prFoHozv_9IBWV5azjcuLjqE/edit?fbclid=IwAR2yfW0C4m7PL8-7F1AWNCCZsEdp8rnNLRO4ETSvFimTGYavecqyCXcrMHk#slide=id.g44ca355d22_0_0
+[24]:https://docs.google.com/presentation/d/1-b9TFwkdiVLC3WdV1uAaXQP1d2I9dRJM8zfNx6uwEIE/edit?fbclid=IwAR1NYM_7OK7iROxFoJ_AfR_1d3Rvrh5vxhZ99_XRBRUQmRObbX3CUgtzd_g#slide=id.g456bf0dcf7_6_431
+[25]:https://l.facebook.com/l.php?u=https%3A%2F%2Fgist.github.com%2Faneesha%2Fda9216fb8d84245f7af6edaa14f4efa9%3Ffbclid%3DIwAR3X7BhnZZ2v3h_gIlFiajReJlutDcWS_n3e-p9MQqtufc1bUnCBoplJCnQ%23file-display_closestwords_tsnescatterplot-ipynb&h=AT1iOcQqYCJfrWmklJyraOG8e-3Vt2wjMNhOjfs5VdiKqx3CTfqnOsDsZAREBWZdqUhGExoP2T9x4Bgo7O59j6-vJJvq7BVQi225WrzDym02O04ZKquUZQjodPUT_LbhkXLMO-Xf
+
+
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
@@ -128,4 +145,9 @@
 [53]:https://medium.com/ccclub
 [54]:https://www.facebook.com/ccclub.io/?__xts__%5B0%5D=68.ARCnhjk8stSyaFt_vriAHC14KT_e9rrZyhmEmIeymdpbi1DLM-wgJVITp3zXb9dRjT6aK95i-mgLRi8bG-ezFy7hunCpy-ZGYC0GkJEPvTmfjm5yOXlYXO7_0tUsMCv-h3SUlOdVvc63dyU8T7HpL2tktySLN0dLGl1AjfR0o4ZRyvplknijGkEYuWVqyacA4FkOfpqO2jBUxnC4psEQp4Vp1lI-F621xi71ssw
 [55]:https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=youtu.be&t=852
+[56]:https://www.books.com.tw/products/0010797283
+[57]:https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?fbclid=IwAR0UUErHm9a1BmT2X8MKoiV0P8eVdfIomiN-Oq7W-ZazWAMzwHsjMjbS0is
+[58]:https://developers.google.com/machine-learning/crash-course/?utm_source=DevRel&utm_medium=StudyJam&utm_campaign=q1y2018&utm_term&utm_content=mlcc&fbclid=IwAR2EypJlNex4cxn_uL8QwRbK2GVS2PNrRQGYWv9L54IQLqkx83QSs39xT_k
+[59]:https://techdevguide.withgoogle.com/paths/machine-learning/
+
 
