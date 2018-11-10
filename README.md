@@ -56,7 +56,7 @@
             + Hsin-Wei Tsao
     - [ ] 第八週 11/10 11/9
         + **實作** 第六章 [Deep learning for text and sequences Practice][27]
-        + **實作** 第六章 [實作][26]
+        + **實作** 第六章 [實作jupyternotebook][26]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第九週 11/17 11/16
         + **導讀** 第七章 Advanced deep-learning best practices
