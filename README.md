@@ -54,7 +54,7 @@
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
         + **補充** [最後Hsin-Wei分享的display_closestwords_tsnescatterplot.ipynb][25]
             + Hsin-Wei Tsao
-    - [] 第八週 11/10 11/9
+    - [x] 第八週 11/10 11/9
         + **實作** 第六章 [Deep learning for text and sequences Practice][27]
         + **實作** 第六章 [實作jupyternotebook][26]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
