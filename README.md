@@ -88,21 +88,17 @@
     + [Slack][16]
 
 ## 學習資源
-+ [womenwhocode:提供豐富的學習資源][49]
-    + Women Who Code 推薦
-+ **政大MOOC**[成為python數據分析達人的第一課][50]
++ **womenwhocode**[womenwhocode的學習資源][49]
++ **台大** [李宏毅老師的youtube頻道][59]
++ **政大**[成為python數據分析達人的第一課][50]
     + Enzo 推薦
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
     + Enzo 推薦
 + **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
-    + Winni 推薦
-+ **書籍** [練好機器學習的基本功][55]
-    + Winni 推薦
 + **Google** [Google機器學習資源1:Prerequisites and Prework][56]
 + **Google** [Google機器學習資源2:Machine Learning Crash Course][57]
-+ **Google** [Google機器學習資源3:Path of Machine Learning][58]
-    + Winni 推薦
-
++ **Google** [Google機器學習資源3:Path of Machine Learning][58
++ **書籍** [練好機器學習的基本功][55]
 
 
 
@@ -150,4 +146,4 @@
 [56]:https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?fbclid=IwAR0UUErHm9a1BmT2X8MKoiV0P8eVdfIomiN-Oq7W-ZazWAMzwHsjMjbS0is
 [57]:https://developers.google.com/machine-learning/crash-course/?utm_source=DevRel&utm_medium=StudyJam&utm_campaign=q1y2018&utm_term&utm_content=mlcc&fbclid=IwAR2EypJlNex4cxn_uL8QwRbK2GVS2PNrRQGYWv9L54IQLqkx83QSs39xT_k
 [58]:https://techdevguide.withgoogle.com/paths/machine-learning/
-
+[59]:https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
