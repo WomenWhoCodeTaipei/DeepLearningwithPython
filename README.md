@@ -59,7 +59,7 @@
         + **實作** 第六章 [實作jupyternotebook][26]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
     - [ ] 第九週 11/17 11/16
-        + **導讀** 第七章 Advanced deep-learning best practices
+        + **導讀** 第七章 [Advanced deep-learning best practices][28]
             + Yu-Hsuan Chen
     - [ ] 第十週 12/9 12/8
         + **導讀** 第八章 Generative deep learning
@@ -135,6 +135,7 @@
 [25]:https://l.facebook.com/l.php?u=https%3A%2F%2Fgist.github.com%2Faneesha%2Fda9216fb8d84245f7af6edaa14f4efa9%3Ffbclid%3DIwAR3X7BhnZZ2v3h_gIlFiajReJlutDcWS_n3e-p9MQqtufc1bUnCBoplJCnQ%23file-display_closestwords_tsnescatterplot-ipynb&h=AT1iOcQqYCJfrWmklJyraOG8e-3Vt2wjMNhOjfs5VdiKqx3CTfqnOsDsZAREBWZdqUhGExoP2T9x4Bgo7O59j6-vJJvq7BVQi225WrzDym02O04ZKquUZQjodPUT_LbhkXLMO-Xf
 [26]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/session8_Text_Practice.ipynb
 [27]:https://docs.google.com/presentation/d/17EImL6qEwrJRz30315POVEPHi7mcnVhTOi4QwiSuST8/edit?fbclid=IwAR1MCdSX58RK9UOl5zSh5rfJ4Cxnh6_QOFy0VovBM6hqa6DEX4MKhf8tVSI#slide=id.p
+[28]:https://docs.google.com/presentation/d/1ukpQ_zBVqMQz1RosLuPbCLkrOqD5O_oQpV4u8wlo6Cc/edit?fbclid=IwAR2A8mBTAyup7j8Qb1PqvS6IC4Y_nRks0kRjQ57rdBcHz6dXcBns6OnqBTw#slide=id.g35f391192_00
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
