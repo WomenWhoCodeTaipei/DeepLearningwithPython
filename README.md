@@ -58,10 +58,13 @@
         + **實作** 第六章 [Deep learning for text and sequences Practice][27]
         + **實作** 第六章 [實作jupyternotebook][26]
             + Hsin-Wei Tsao, Alicia Yi-Ting Tsai
-    - [ ] 第九週 11/17 11/16
+    - [x] 第九週 11/17 11/16
         + **導讀** 第七章 [Advanced deep-learning best practices][28]
             + Yu-Hsuan Chen
-    - [ ] 第十週 12/9 12/8
+    - [x] 第十週 12/9 12/8
+        + **導讀** 第七章 [Advanced deep-learning best practices][28]
+            + Yu-Hsuan Chen
+    - [ ] 第十一週 12/16 12/15
         + **導讀** 第八章 Generative deep learning
             + Jay Tao
         + **導讀** 第九章 Conclusions
@@ -90,6 +93,8 @@
 ## 學習資源
 + **womenwhocode**[womenwhocode的學習資源][49]
 + **台大** [李宏毅老師的youtube頻道][59]
++ **台大** [林軒田老師的機器學習基石(上)-數學基礎][62]
++ **台大** [林軒田老師的機器學習基石(下)-演算法基礎][63]
 + **政大**[成為python數據分析達人的第一課][50]
     + Enzo 推薦
 + **Udemy**[机器学习 A-Z (Machine Learning A-Z in Chinese)][51]
@@ -97,7 +102,10 @@
 + **Fb粉絲頁** [ccClub][54] & Medium:[Coding & Co-working Club][53]
 + **Google** [Google機器學習資源1:Prerequisites and Prework][56]
 + **Google** [Google機器學習資源2:Machine Learning Crash Course][57]
-+ **Google** [Google機器學習資源3:Path of Machine Learning][58
++ **Google** [Google機器學習資源3:Path of Machine Learning][58]
++ **Microsoft** [AI School: ML Crash Course][60]
++ **Udacity** [deep-learning-v2-pytorch][61]
++ **Coursera** [吳恩達老師的 Deep Learning系列課程][64]
 + **書籍** [練好機器學習的基本功][55]
 
 
@@ -148,3 +156,8 @@
 [57]:https://developers.google.com/machine-learning/crash-course/?utm_source=DevRel&utm_medium=StudyJam&utm_campaign=q1y2018&utm_term&utm_content=mlcc&fbclid=IwAR2EypJlNex4cxn_uL8QwRbK2GVS2PNrRQGYWv9L54IQLqkx83QSs39xT_k
 [58]:https://techdevguide.withgoogle.com/paths/machine-learning/
 [59]:https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists
+[60]:https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ml-crash-course
+[61]:https://github.com/udacity/deep-learning-v2-pytorch
+[62]:https://www.coursera.org/learn/ntumlone-mathematicalfoundations
+[63]:https://www.coursera.org/learn/ntumlone-algorithmicfoundations
+[64]:https://www.deeplearning.ai/
