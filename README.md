@@ -64,10 +64,10 @@
     - [x] 第十週 12/9 12/8
         + **導讀** 第七章 [Advanced deep-learning best practices][28]
             + Yu-Hsuan Chen
-    - [ ] 第十一週 12/16 12/15
-        + **導讀** 第八章 Generative deep learning
+    - [x] 第十一週 12/16 12/15
+        + **導讀** 第八章 [Generative deep learning][29]
             + Jay Tao
-        + **導讀** 第九章 Conclusions
+        + **導讀** 第九章 [Conclusions][30]
             + Jay Tao
 
 ## 課程時間與地點:
@@ -144,6 +144,8 @@
 [26]:https://github.com/WomenWhoCodeTaipei/DeepLearningwithPython/blob/master/session8_Text_Practice.ipynb
 [27]:https://docs.google.com/presentation/d/17EImL6qEwrJRz30315POVEPHi7mcnVhTOi4QwiSuST8/edit?fbclid=IwAR1MCdSX58RK9UOl5zSh5rfJ4Cxnh6_QOFy0VovBM6hqa6DEX4MKhf8tVSI#slide=id.p
 [28]:https://docs.google.com/presentation/d/1ukpQ_zBVqMQz1RosLuPbCLkrOqD5O_oQpV4u8wlo6Cc/edit?fbclid=IwAR2A8mBTAyup7j8Qb1PqvS6IC4Y_nRks0kRjQ57rdBcHz6dXcBns6OnqBTw#slide=id.g35f391192_00
+[29]:https://docs.google.com/presentation/d/1eukZLgAZTpLZSi-R-GfTOop1dEOykgf8kuQg5Mn1u50/edit?fbclid=IwAR2ahorQfwtpNLlrMs0JhVKDTkAQt8_hNkdAqL6ntFO3Dy0mQHIwy8iUN50#slide=id.g46410a78bf_0_0
+[30]:https://docs.google.com/presentation/d/1uBFRrLoyh1C1drMpd3KcNj9JqDbZZHK91TGbvzPHylI/edit?fbclid=IwAR2EHyOVqrU5UGTspjfPR29ki5VGXiM4M9E351FycpA2f03YQwpqUJ2xUhM#slide=id.g4a3f5b514e_0_0
 
 [49]:https://www.womenwhocode.com/resources
 [50]:http://moocs.nccu.edu.tw/course/123/section/lecture
